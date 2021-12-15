@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 v=0.7
-h="$HOME/proj"
+h="$HOME/projects"
 c="$(basename "$0")"
 mkdir -p "$h"
 
